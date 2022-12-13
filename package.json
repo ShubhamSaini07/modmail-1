@@ -22,7 +22,7 @@
   "dependencies": {
     "ajv": "^6.12.6",
     "eris": "github:dragory/eris#stickers",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^4.1.1",
     "humanize-duration": "^3.23.1",
     "ini": "^1.3.5",
